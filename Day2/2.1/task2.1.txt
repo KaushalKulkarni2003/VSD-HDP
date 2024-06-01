@@ -1,0 +1,8 @@
+Analysis of .lib file
+
+P(process) = 1
+V (voltage) = 1
+T (temperature) = 25
+
+Delay Model = table lookup
+technology = cmos
